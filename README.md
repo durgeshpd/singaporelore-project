@@ -4,6 +4,13 @@ This is a full-stack React web application showcasing Singapore’s rich culture
 
 ---
 
+🔗 Live Application  
+➡️ Visit [SingaporeLore](https://singaporelore-project.vercel.app/)
+
+This will take you directly to the SingaporeLore application.
+
+---
+
 🚀 Features
 
 - 🏙️ **Singapore Cultural Content**
