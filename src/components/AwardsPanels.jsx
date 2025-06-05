@@ -18,13 +18,13 @@ const AwardsPanels = () => {
   return (
     <div className="mt-8 mb-8 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-6">
       <AwardsPanelCard
-        title="Vote Top216"
-        link="https://top216.com/vote"
+        title="Vote with RankedVote"
+        link="https://www.rankedvote.co/"
         icon="🗳️"
       />
       <AwardsPanelCard
-        title="Explore TheTop36"
-        link="https://thetop36.com/highlights"
+        title="Explore Global Voting Platform"
+        link="https://globalvotingplatform.com/"
         icon="✨"
       />
     </div>
