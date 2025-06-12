@@ -49,7 +49,7 @@ This will take you directly to the SingaporeLore application.
 
 📁 Project Structure
 
-```bash
+```css
 netlify/
   └── functions/
       ├── create-checkout-session.js
