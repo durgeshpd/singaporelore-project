@@ -74,15 +74,13 @@ package.json
 📦 Setup Instructions
 ### 1. Clone the repo
 ```bash
-
-    ~ git clone https://github.com/your-username/singapore-lore-raffle.git
-    ~ cd singapore-lore-raffle
+git clone https://github.com/your-username/singapore-lore-raffle.git
+cd singapore-lore-raffle
 ```
 
 ### 2. Install dependencies
 ```bash
-
-    ~ npm install
+npm install
 ```
 ### 3. Configure environment variables
 Create a .env file in the root directory with:
@@ -93,7 +91,7 @@ STRIPE_WEBHOOK_SECRET=your_stripe_webhook_secret
 URL=http://localhost:8888  # Or your deployed site URL
 ```
 ```bash
-    ~ npm run dev
+npm run dev
 ```
 This will run frontend and functions locally.
 
@@ -122,4 +120,5 @@ This will run frontend and functions locally.
 ---
 
 📬 Contact
+
 Feel free to open an issue or submit a pull request if you have ideas or improvements.
