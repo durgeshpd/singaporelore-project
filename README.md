@@ -74,7 +74,7 @@ package.json
 📦 Setup Instructions
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/singapore-lore-raffle.git
+git clone https://github.com/durgeshpd/singaporelore-project.git
 cd singapore-lore-raffle
 ```
 
